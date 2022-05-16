@@ -1,0 +1,68 @@
+
+ul{
+	margin-top:40px; 
+	float: right;
+
+}
+ul li{
+	display: inline-block;
+
+}
+ul li a{
+	text-decoration: none;
+	padding: 20px;
+	color:black;
+	font-weight: bold;
+
+}
+ul li a:hover{
+	background-color: white;
+	color: #727801;
+	padding: 15px;
+	border-radius: 20px;
+	margin-bottom: -20px;
+}
+.i1
+{
+	background-image: url("image/p34.jpg");
+	height: 550px;
+	width: 600px;
+	margin-top: -610px;
+	margin-left: 700px;
+	background-size: cover;
+	visibility: 10%;
+}
+.d1
+{
+	font-size: 20px;
+}
+.t1
+{
+	width: 420px;
+	height: 30px;
+	visibility: 10px;
+	background-color: inherit;
+	font-size: 20px;
+}
+.t2
+{
+	background-color: unset;
+	font-size: 20px;
+	width: 420px;
+	height: 150px;
+}
+.t3
+{
+	background-color:transparent;
+	font-size: 20px;
+	width: 100px;
+	height: 35px;
+	border-top: none;
+	border: none;
+	border-color: yellow;
+	background-color: #b391b1;
+}
+.i2
+{
+	margin-top: 90px;
+}
